@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|c:\\users\\david\\source\\repos\\dise\u00F1opaginas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|c:\\users\\david\\source\\repos\\dise\u00F1opaginas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|c:\\users\\david\\source\\repos\\dise\u00F1opaginas\\views\\home\\footerpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|solutionrelative:views\\home\\footerpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|c:\\users\\david\\source\\repos\\dise\u00F1opaginas\\views\\home\\headerpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|solutionrelative:views\\home\\headerpdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76536D15-A11E-4B8C-8196-0F5DB9726C1F}|Dise\u00F1oPaginas.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FooterPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Home\\FooterPDF.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\FooterPDF.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Home\\FooterPDF.cshtml",
+              "RelativeToolTip": "Views\\Home\\FooterPDF.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:51:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:46:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeaderPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Home\\HeaderPDF.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\HeaderPDF.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Home\\HeaderPDF.cshtml",
+              "RelativeToolTip": "Views\\Home\\HeaderPDF.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:43:30.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:28:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:28:24.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\Dise\u00F1oPaginas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAIBZwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T16:28:24.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 323,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
